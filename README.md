@@ -1,8 +1,8 @@
 # SQL-Assessment-Nike
 
-SQL Assessment - Nike
-icon
-Make sure you are connected to the Nike Database. The connection link can be found here → Nike Database
+##SQL Assessment - Nike
+
+###Make sure you are connected to the Nike Database. The connection link can be found here → Nike Database
 
 Question #1: 
 If we exclude the discounts that have been given, the expected profit margin for each product is calculated by: (retail price - cost) / retail price. 
