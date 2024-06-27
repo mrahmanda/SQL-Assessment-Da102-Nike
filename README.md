@@ -1,4 +1,4 @@
-# SQL-Assessment-Nike
+# SQL-Assessment-DA104-Nike
 
 ## SQL Assessment - Nike
 
